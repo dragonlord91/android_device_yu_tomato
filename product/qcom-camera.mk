@@ -2,7 +2,7 @@
 PRODUCT_PACKAGES += \
     camera.msm8916 \
     libmm-qcamera \
-    SnapdragonCamera \
+    Camera2 \
     libshims_camera
 
 # Permissions

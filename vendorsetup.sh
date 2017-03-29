@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo uos_tomato-userdebug
+add_lunch_combo citrus_tomato-userdebug
